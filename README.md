@@ -18,8 +18,7 @@
 
 ### Projetos
 
-- **[Menu Digital Interativo](https://github.com/seu_usuario/menu-digital)** - Sistema de menu interativo para fast food.
-- **[Projeto Exemplo](https://github.com/seu_usuario/projeto-exemplo)** - Descrição do projeto.
+- **[Conversor de moedas]([https://github.com/seu_usuario/menu-digital](https://github.com/alessandrogamaa/Projeto-de-Apresentacao/blob/main/MiniProjeto.html))** - Sistema calcular quanto vale a moeda de cada País.
 
 ### Conecte-se Comigo
 
