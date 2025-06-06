@@ -45,7 +45,7 @@
 ## 🌐 Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/alessandro-gama-b29249135/)
-- ✉️ alessandrosouzagama@gmail.com
+- ✉ alessandrosouzagama@gmail.com
 
 ---
 
